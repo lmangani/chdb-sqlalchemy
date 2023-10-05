@@ -1,7 +1,7 @@
 # chdb-sqlalchemy
 Basic, Ugly, Hackish sqlalchemy driver for chdb
 
-> Nothing to see here, move on!
+> Warning: this hack probably doesn't work past this example ⚠️ 
 
 ### Example
 ```python
