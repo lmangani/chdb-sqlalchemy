@@ -1,3 +1,4 @@
 chdb>=0.14.2
 sqlalchemy>=1.0.0
 infi.clickhouse_orm>=1.2.0
+six
