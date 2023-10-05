@@ -1,3 +1,7 @@
+<img src="https://avatars.githubusercontent.com/u/132536224?s=200&v=4" width=150>
+
+[![Test Package](https://github.com/lmangani/chdb-sqlalchemy/actions/workflows/python-package.yml/badge.svg)](https://github.com/lmangani/chdb-sqlalchemy/actions/workflows/python-package.yml)
+
 # chdb-sqlalchemy
 Basic, Ugly, Hackish sqlalchemy driver for chdb
 
