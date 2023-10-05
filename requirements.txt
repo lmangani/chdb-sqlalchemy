@@ -1,0 +1,3 @@
+chdb=>0.14.2
+infi
+sqlalchemy
